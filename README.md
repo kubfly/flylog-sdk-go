@@ -1,2 +1,2 @@
-# flylog-sdk-go
-FlyLog SDK for Go
+# FlyLog SDK for Go
+Provides Go API for application development with FlyLog framework.
